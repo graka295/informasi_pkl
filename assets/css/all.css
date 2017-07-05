@@ -1,0 +1,41 @@
+*{
+  font-family: "Myriad Pro";
+}
+
+h1,h2,h3,h3,h5,h5{
+  font-family: default;
+}
+
+.jmb{
+  height: 130px;
+}
+
+.modal-header{
+  color: #636b6f;
+}
+
+.frm{
+  border-radius: 0;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding:5;
+  padding-top: 6px;
+  border-radius: 100%;
+}
+
+.full-height {
+    height: 85%;
+}
+
+.full-height2 {
+    height: 100%;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
